@@ -1,3 +1,8 @@
 {
-  "cleanUrls": true
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "/api/:match*"
+    }
+  ]
 }

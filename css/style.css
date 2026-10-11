@@ -205,9 +205,14 @@ img {
   color: var(--sacet-yellow);
 }
 
-.nav-link svg.arrow {
-  width: 10px;
-  height: 10px;
+.nav-link svg.arrow, svg.arrow, .arrow {
+  width: 10px !important;
+  height: 6px !important;
+  max-width: 10px !important;
+  max-height: 6px !important;
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
   transition: transform 0.2s;
 }
 
