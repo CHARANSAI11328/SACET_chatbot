@@ -3,8 +3,9 @@
 .env.local
 .env.*.local
 
-# Dependency directories
+# Dependency and build directories
 node_modules/
+dist/
 
 # Logs
 logs/
