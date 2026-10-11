@@ -374,12 +374,32 @@ document.addEventListener("DOMContentLoaded", async () => {
     link.addEventListener("click", (e) => {
       if (window.innerWidth <= 992) {
         const parent = link.closest(".nav-item");
-        if (parent.querySelector(".dropdown-menu")) {
+        if (parent && parent.querySelector(".dropdown-menu")) {
           e.preventDefault();
           parent.classList.toggle("open-sub");
         }
       }
     });
+  });
+
+  // Auto-close mobile nav when selecting an item
+  document.querySelectorAll(".dropdown-item, .nav-menu a").forEach(item => {
+    item.addEventListener("click", () => {
+      if (window.innerWidth <= 992 && navMenu && navMenu.classList.contains("open")) {
+        navMenu.classList.remove("open");
+        if (mobileNavToggle) mobileNavToggle.innerHTML = '<i class="fa-solid fa-bars"></i>';
+      }
+    });
+  });
+
+  // Click outside to close mobile nav
+  document.addEventListener("click", (e) => {
+    if (window.innerWidth <= 992 && navMenu && navMenu.classList.contains("open")) {
+      if (!navMenu.contains(e.target) && mobileNavToggle && !mobileNavToggle.contains(e.target)) {
+        navMenu.classList.remove("open");
+        mobileNavToggle.innerHTML = '<i class="fa-solid fa-bars"></i>';
+      }
+    }
   });
 
   // ================= Markdown Renderer & Sanitizer =================
