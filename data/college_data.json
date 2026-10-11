@@ -1,0 +1,774 @@
+{
+  "college_name": "St. Ann's College of Engineering & Technology (SACET)",
+  "short_name": "SACET Chirala",
+  "eamcet_code": "SACE",
+  "motto": "Leading to the Heights of Technical Excellence",
+  "tagline": "Shraddhavan Labhate Jnanam (श्रद्धावाँल्लभते ज्ञानम्)",
+  "established": 2001,
+  "accreditation": "Accredited by NAAC with 'A' Grade (Twice Accredited), NBA Accredited Departments (CSE, ECE, EEE, MECH), ISO 9001:2015 Certified",
+  "affiliation": "Autonomous Institution, Permanently Affiliated to Jawaharlal Nehru Technological University, Kakinada (JNTUK), Approved by AICTE & UGC, New Delhi",
+  "sponsoring_society": "St. Mary Educational Society",
+  "campus_overview": {
+    "location": "Nayunipalli, Challareddy Palem, Vetapalem Mandal, near Chirala, Bapatla District, Andhra Pradesh - 523187",
+    "campus_area": "Sprawling 35+ Acres eco-friendly green campus with modern engineering blocks",
+    "official_website": "https://www.sacet.ac.in",
+    "general_enquiry_phone": "08594-247500 / 08594-246100",
+    "general_enquiry_email": "sacetchirala@gmail.com",
+    "social_media": {
+      "instagram": "https://instagram.com/sacetchirala_official",
+      "facebook": "https://facebook.com/sacetchirala",
+      "youtube": "https://youtube.com/c/sacetchirala"
+    },
+    "vision": "To develop St. Ann’s College of Engineering and Technology into an institution of global standards catering to the educational needs of students and contributing to the welfare of the local community.",
+    "mission": "To deliver quality education at undergraduate and postgraduate levels by adopting best teaching-learning practices; providing faculty development and research opportunities; fostering industry-institution interactions for training and placements; and managing the institution with transparent governance while supporting community well-being."
+  },
+  "leadership_and_governing_body": {
+    "principal": {
+      "name": "Dr. K. Jagadeesh Babu",
+      "designation": "Principal & Member Secretary",
+      "qualifications": "Ph.D (JNTUH), Postdoc (CER from IIT Kharagpur in 2025), SMIEEE",
+      "contact_phone": "9848510999 / 08594-247500",
+      "achievements": "Published 80+ research papers in SCI/Scopus indexed journals, handled 40+ Lakhs in funded research projects (AICTE, DSR), Best Teacher Award 2012, Best Researcher Award 2018 from JNTUK."
+    },
+    "governing_body_members": [
+      {
+        "name": "Sri V. Raghavendra Rao",
+        "role": "Chairman (Management)"
+      },
+      {
+        "name": "Sri B. Phani Raju",
+        "role": "Vice-Chairman (Management)"
+      },
+      {
+        "name": "Sri Vanama Ramakrishna Rao",
+        "role": "Secretary (Management)"
+      },
+      {
+        "name": "Sri Srimanthula Lakshmana Rao",
+        "role": "Correspondent (Management)"
+      },
+      {
+        "name": "Dr. C. Subba Rao",
+        "role": "Director (Accreditations & R&D)"
+      },
+      {
+        "name": "Dr. P. Harini",
+        "role": "Teacher Nominee (Professor & Head, CSE)"
+      },
+      {
+        "name": "Dr. C. Hari Kishan",
+        "role": "Teacher Nominee (Head, CSE-AIML)"
+      },
+      {
+        "name": "Sri Praveen Kamath Kumbla",
+        "role": "Industrialist Nominee (Vice President - HR, Wipro Technologies)"
+      },
+      {
+        "name": "Sri Prabhakar Singh",
+        "role": "UGC Nominee (Head, Dept of Physics, IIT BHU)"
+      },
+      {
+        "name": "Director, RGUKT Ongole Campus",
+        "role": "State Government / APSCHE Nominee"
+      },
+      {
+        "name": "Dr. Ch. Srinivasa Rao",
+        "role": "University Nominee (Principal UCEN, JNTU Kakinada)"
+      },
+      {
+        "name": "Dr. K. Jagadeesh Babu",
+        "role": "Principal (Member Secretary - Ex-officio)"
+      }
+    ],
+    "administration_functionaries": {
+      "director_administration": "Sri Vanama Dora Naga Sainath",
+      "director_finance": "Sri B. Sai Charan Raju",
+      "administrative_manager": "Sri R. V. Ramana Murthy",
+      "tpo_training_placement_officer": "Mr. N. Purna Chandra Rao (Phones: 09866031363 / 09160736444 / 09951109888, Email: sacet.placements@gmail.com)",
+      "deputy_director_polytechnic": "Dr. K. Vijay Bhaskara Reddy (Phone: 9505518288)",
+      "first_year_incharge": "Sri S. Amaranath Babu (Phone: 9505518288)",
+      "physical_education_director": "Sri Annam Srinivasa Rao",
+      "nss_program_officer": "Dr. D. Jyothi Swaroop",
+      "associate_ncc_officer": "Lieutenant Medikonda Rajesh Babu (23 AP Battalion NCC)"
+    }
+  },
+  "all_department_hods_quick_directory": [
+    {
+      "department": "CSE (Data Science) - CSE-DS",
+      "hod_name": "Dr. Katteda Subba Rao, Ph.D. (Dr. K. Subba Rao)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "Active Present HOD (Regular)",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats",
+      "established": "2021"
+    },
+    {
+      "department": "CSE (Artificial Intelligence & Machine Learning) - CSE-AIML",
+      "hod_name": "Dr. Hari Kishan Chapala (Dr. C. Hari Kishan)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "01-06-2006",
+      "nature_of_association": "Regular",
+      "intake": "120 Seats",
+      "established": "2020"
+    },
+    {
+      "department": "CSE (Cyber Security)",
+      "hod_name": "Dr. V. Venu Gopal",
+      "designation": "Associate Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "01-06-2023",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats"
+    },
+    {
+      "department": "CSE (Internet of Things - IoT)",
+      "hod_name": "Dr. Sreeram Indraneel (Dr. S. Indraneel)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "09-02-2015",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats"
+    },
+    {
+      "department": "Computer Science & Engineering (CSE)",
+      "hod_name": "Dr. P. Harini",
+      "designation": "Professor & Head of Department (HOD)",
+      "qualification": "Ph.D",
+      "joining_date": "12-07-2004",
+      "nature_of_association": "Regular",
+      "intake": "180 Seats",
+      "established": "2001"
+    },
+    {
+      "department": "Electronics & Communication Engineering (ECE)",
+      "hod_name": "Dr. D. Rajendra Prasad",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "02-07-2012",
+      "nature_of_association": "Regular",
+      "intake": "180 Seats",
+      "established": "2001"
+    },
+    {
+      "department": "Electrical & Electronics Engineering (EEE)",
+      "hod_name": "Dr. S. Venkat Durga Anil Kumar (Dr. SVD Anil Kumar)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "22-07-2006",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats",
+      "established": "2001"
+    },
+    {
+      "department": "Mechanical Engineering (ME)",
+      "hod_name": "Dr. Lakshmi Tulasi Chavali (Dr. Ch. Lakshmi Tulasi)",
+      "designation": "Professor & Head of Department (HOD)",
+      "qualification": "M.Tech, Ph.D",
+      "joining_date": "10-05-2023",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats",
+      "established": "2001"
+    },
+    {
+      "department": "Civil Engineering (CIVIL)",
+      "hod_name": "Dr. Tappeta Kiran Kumar (Dr. T. Kiran Kumar)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "08-07-2024",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats",
+      "established": "2009"
+    },
+    {
+      "department": "Master of Business Administration (MBA)",
+      "hod_name": "Dr. Ramanadhula Emmanuel (Dr. R. Emmanuel)",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D, MBA, M.Phil",
+      "nature_of_association": "Regular",
+      "intake": "120 Seats",
+      "established": "2006"
+    },
+    {
+      "department": "Master of Computer Applications (MCA)",
+      "hod_name": "Dr. D. Reddeppa",
+      "designation": "Associate Professor & HOD",
+      "qualification": "Ph.D",
+      "joining_date": "01-07-2023",
+      "nature_of_association": "Regular",
+      "intake": "60 Seats"
+    },
+    {
+      "department": "First Year Engineering / Humanities & Sciences (H&S)",
+      "hod_name": "Sri S. Amaranath Babu (First Year In-charge, Phone: 9505518288)",
+      "designation": "First Year In-charge & Assoc. Professors Team",
+      "senior_professors": "Dr. Udutha Mohan Chand (Ph.D), Dr. B. Madhavi Latha (Ph.D), Dr. R. Naga Dhana Lakshmi (Ph.D), Dr. T. V. L. Narayana (Ph.D)"
+    },
+    {
+      "department": "Polytechnic / Diploma",
+      "hod_name": "Dr. K. Vijay Bhaskara Reddy",
+      "designation": "Deputy Director (Polytechnic)",
+      "contact_phone": "9505518288 / 7207123457",
+      "branches": "DME, DECE, DCSE, DEEE, DCIVIL"
+    }
+  ],
+  "academic_departments_detailed": {
+    "cse_data_science": {
+      "branch_name": "CSE - Data Science (CSE-DS)",
+      "established": 2021,
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. Katteda Subba Rao, Ph.D. (Dr. K. Subba Rao)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "Active Present HOD",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. P. Prabhakaran",
+          "designation": "Associate Professor",
+          "qualification": "Ph.D",
+          "joining_date": "15-07-2024"
+        },
+        {
+          "name": "Konduru Ramesh",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2023"
+        },
+        {
+          "name": "Bandi Mahesh",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2023"
+        },
+        {
+          "name": "V. V. Sravan Kumar",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2022"
+        },
+        {
+          "name": "Tatiparthi Sai Mohan Reddy",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2024"
+        },
+        {
+          "name": "Adapa Venkata Chaitanya",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2024"
+        },
+        {
+          "name": "Neeli Bhagya Sree",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "14-08-2025"
+        },
+        {
+          "name": "Mohammad Fathima Tabassum",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-08-2025"
+        },
+        {
+          "name": "Morla Dinesh Sai",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "14-08-2025"
+        },
+        {
+          "name": "Prakash Pathuri",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "05-06-2023"
+        },
+        {
+          "name": "Rajavarapu Eswar Chandra Prasad",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "23-07-2026"
+        },
+        {
+          "name": "Yerra Anjali Satyavati",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "06-08-2026"
+        }
+      ],
+      "department_overview": "Established in 2021 with an intake of 60 under AICTE approval. Data Science is the study of large amount of data to extract meaningful insights for decision-making combining mathematics, statistics, AI, and computer engineering.",
+      "curriculum_and_regulation": "Autonomous R26 and R23 Regulation approved by Board of Studies (BOS). Focuses on Big Data Analytics, Cloud Computing, Predictive Modeling, and Machine Learning.",
+      "laboratories": "Data Science Computing Lab, Big Data Hadoop & Spark Lab, Python & R Programming Lab, AI Analytics Lab."
+    },
+    "cse_cyber_security": {
+      "branch_name": "CSE - Cyber Security",
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. V. Venu Gopal",
+        "designation": "Associate Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "01-06-2023",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Eduru Nagarjuna",
+          "designation": "Associate Professor",
+          "qualification": "Ph.D",
+          "joining_date": "01-07-2024"
+        },
+        {
+          "name": "Tagallamudi Nirupa",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2023"
+        },
+        {
+          "name": "Sk Muneesha",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "18-10-2021"
+        },
+        {
+          "name": "K Jasmine",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-06-2024"
+        },
+        {
+          "name": "V Manisha",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-07-2024"
+        },
+        {
+          "name": "S Vijay Kumar",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "01-07-2024"
+        },
+        {
+          "name": "Ambati Kavya",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "14-08-2025"
+        },
+        {
+          "name": "M Sumanth",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "14-08-2025"
+        },
+        {
+          "name": "Gudapati S Sathya Narayana",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "14-08-2025"
+        },
+        {
+          "name": "Ch. Ankamma Rao",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "18-08-2025"
+        },
+        {
+          "name": "G.V.N.S. Sravya",
+          "designation": "Assistant Professor",
+          "qualification": "M.Tech",
+          "joining_date": "27-07-2026"
+        }
+      ],
+      "laboratories": "Ethical Hacking & Penetration Testing Lab, Network Security & Cryptography Lab, Digital Forensics Lab."
+    },
+    "cse_ai_and_ml": {
+      "branch_name": "CSE - Artificial Intelligence & Machine Learning (CSE-AIML)",
+      "established": 2020,
+      "approved_intake": "120 Seats",
+      "head_of_department": {
+        "name": "Dr. Hari Kishan Chapala (Dr. C. Hari Kishan)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "01-06-2006",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. S. Naveen Kumar Polisetty",
+          "designation": "Associate Professor",
+          "qualification": "Ph.D",
+          "joining_date": "05-01-2015"
+        }
+      ],
+      "laboratories": "Deep Learning GPU Workstation Lab, Computer Vision Lab, Natural Language Processing Lab, Robotics & AI Lab."
+    },
+    "cse_iot": {
+      "branch_name": "CSE - Internet of Things (IoT)",
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. Sreeram Indraneel (Dr. S. Indraneel)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "09-02-2015",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Venkata Praveen Kumar Vuppala",
+          "designation": "Associate Professor",
+          "qualification": "Ph.D",
+          "joining_date": "09-02-2015"
+        }
+      ],
+      "laboratories": "IoT Embedded Systems Lab, Sensor & Actuator Interfacing Lab, Smart Automation & Wireless Sensor Networks Lab."
+    },
+    "cse_core": {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "established": 2001,
+      "approved_intake": "180 Seats",
+      "head_of_department": {
+        "name": "Dr. P. Harini",
+        "designation": "Professor & Head of Department (HOD)",
+        "qualification": "Ph.D",
+        "joining_date": "12-07-2004",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Yezarla Chittibabu",
+          "designation": "Professor",
+          "qualification": "Ph.D",
+          "joining_date": "28-06-2004"
+        }
+      ],
+      "laboratories": "Advanced Software Engineering Lab, Cloud Computing Lab, Database Management Systems Lab, Web Technologies Lab."
+    },
+    "ece_core": {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "established": 2001,
+      "approved_intake": "180 Seats",
+      "head_of_department": {
+        "name": "Dr. D. Rajendra Prasad",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "02-07-2012",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. K. Jagadeesh Babu",
+          "designation": "Principal & Professor",
+          "qualification": "Ph.D, Postdoc IIT Kharagpur",
+          "joining_date": "19-11-2001"
+        }
+      ],
+      "laboratories": "VLSI Design & Cadence Lab, Embedded Systems & Microcontrollers Lab, Microwave & Optical Communications Lab, Digital Signal Processing Lab."
+    },
+    "eee_core": {
+      "branch_name": "Electrical & Electronics Engineering (EEE)",
+      "established": 2001,
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. S. Venkat Durga Anil Kumar (Dr. SVD Anil Kumar)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "22-07-2006",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Kaladhar Gaddala",
+          "designation": "Associate Professor",
+          "qualification": "Ph.D",
+          "joining_date": "12-08-2006"
+        }
+      ],
+      "laboratories": "Power Electronics Lab, Electrical Machines Lab, Control Systems Lab, Smart Grid & Renewable Energy Lab."
+    },
+    "mechanical_core": {
+      "branch_name": "Mechanical Engineering (ME)",
+      "established": 2001,
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. Lakshmi Tulasi Chavali (Dr. Ch. Lakshmi Tulasi)",
+        "designation": "Professor & Head of Department",
+        "qualification": "M.Tech, Ph.D",
+        "joining_date": "10-05-2023",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Subba Rao Chillara (Dr. C. Subba Rao)",
+          "designation": "Professor & Director (Accreditation & R&D)",
+          "qualification": "Ph.D",
+          "joining_date": "01-01-2009"
+        }
+      ],
+      "laboratories": "CAD/CAM & CNC Lathe Milling Lab, Thermal Engineering & Heat Transfer Lab, Metallurgy & Material Science Lab, Fluid Mechanics & Hydraulic Machinery Lab."
+    },
+    "civil_core": {
+      "branch_name": "Civil Engineering (CIVIL)",
+      "established": 2009,
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. Tappeta Kiran Kumar (Dr. T. Kiran Kumar)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "08-07-2024",
+        "association": "Regular"
+      },
+      "senior_faculty": [
+        {
+          "name": "Dr. Jyothi Swarup Deevi (Dr. D. Jyothi Swaroop)",
+          "designation": "Associate Professor & NSS Officer",
+          "qualification": "Ph.D",
+          "joining_date": "01-07-2014"
+        }
+      ],
+      "laboratories": "Total Station & Advanced Surveying Lab, Concrete Technology Lab, Geotechnical & Soil Mechanics Lab, Environmental Engineering Lab."
+    },
+    "management_mba": {
+      "branch_name": "Master of Business Administration (MBA)",
+      "established": 2006,
+      "approved_intake": "120 Seats",
+      "head_of_department": {
+        "name": "Dr. Ramanadhula Emmanuel (Dr. R. Emmanuel)",
+        "designation": "Professor & HOD",
+        "qualification": "Ph.D, MBA, M.Phil"
+      },
+      "specializations": "Finance, Marketing, Human Resource Management (HRM)"
+    },
+    "computer_applications_mca": {
+      "branch_name": "Master of Computer Applications (MCA)",
+      "approved_intake": "60 Seats",
+      "head_of_department": {
+        "name": "Dr. D. Reddeppa",
+        "designation": "Associate Professor & HOD",
+        "qualification": "Ph.D",
+        "joining_date": "01-07-2023",
+        "association": "Regular"
+      },
+      "faculty": [
+        {
+          "name": "Rambabu Pillutla",
+          "designation": "Assistant Professor",
+          "qualification": "M.C.A.",
+          "joining_date": "13-06-2022"
+        },
+        {
+          "name": "Mallisetty Sireesha",
+          "designation": "Assistant Professor",
+          "qualification": "M.C.A.",
+          "joining_date": "01-02-2023"
+        }
+      ]
+    }
+  },
+  "admissions_and_intake": {
+    "eamcet_code": "SACE",
+    "academic_year": "2025-2026 & 2026-2027",
+    "quota_split": "70% Category-A (Convener Quota via State Govt Counseling) + 30% Category-B (Management/NRI Quota)",
+    "official_intake": {
+      "btech_undergraduate_total": "960 Seats Approved (Admitted: 977 with 10% EWS quota)",
+      "mtech_postgraduate": "144 Seats Approved (Admitted: 115)",
+      "mba_postgraduate": "120 Seats Approved (Admitted: 132 with 10% EWS quota)",
+      "mca_postgraduate": "60 Seats Approved (Admitted: 53)"
+    },
+    "entrance_exams": {
+      "btech": "AP EAPCET (EAMCET) - Code: SACE",
+      "mba_mca": "AP ICET",
+      "mtech": "AP PGECET / GATE",
+      "diploma": "AP POLYCET"
+    }
+  },
+  "official_fee_structure_afrc": {
+    "regulatory_body": "Andhra Pradesh Higher Education Regulatory & Monitoring Commission (APHERMC / AFRC)",
+    "official_annual_fees": {
+      "btech_tuition_fee": "Rs. 56,800/- per year (Fixed by AFRC)",
+      "mba_tuition_fee": "Rs. 35,000/- per year (Fixed by AFRC)",
+      "mca_tuition_fee": "Rs. 35,000/- per year (Fixed by AFRC)",
+      "mtech_tuition_fee": "Rs. 50,000/- per year (Fixed by AFRC)"
+    },
+    "government_fee_reimbursement": "100% Full Tuition Fee Reimbursement for eligible BC, SC, ST, EWS, and Kapu students qualifying under Andhra Pradesh Government Jagananna Vidya Deevena (JVD) scheme.",
+    "fee_refund_policy": "Full refund (minus processing fee up to Rs. 1,000) if withdrawn prior to course commencement. Pro-rated refund if withdrawn post-commencement and seat is subsequently filled."
+  },
+  "verified_scholarship_schemes_2025_2026": [
+    {
+      "scheme": "Pragathi Scholarship (for Girls)",
+      "amount": "₹50,000 per year",
+      "beneficiaries": "4 students (2025-26) / 17 students (2024-25)"
+    },
+    {
+      "scheme": "Yasashvi Scholarship",
+      "amount": "₹50,000 per year"
+    },
+    {
+      "scheme": "Lotus Petal Scholarship",
+      "amount": "₹62,500 per year",
+      "beneficiaries": "1 student"
+    },
+    {
+      "scheme": "LIC Scholarship",
+      "amount": "₹30,000 per year",
+      "beneficiaries": "3 students"
+    },
+    {
+      "scheme": "Reliance Scholarship",
+      "amount": "₹50,000 per year",
+      "beneficiaries": "2 students"
+    },
+    {
+      "scheme": "HDFC Scholarship",
+      "amount": "₹50,000 per year",
+      "beneficiaries": "1 student"
+    },
+    {
+      "scheme": "Beedi Workers Scholarship",
+      "amount": "₹25,000 per year",
+      "beneficiaries": "1 student"
+    }
+  ],
+  "verified_placements_data": {
+    "training_and_placement_cell": {
+      "officer": "Mr. N. Purna Chandra Rao (M.B.A., M.Phil., Ph.D scholar at VIT Vellore)",
+      "phones": "09866031363 / 09160736444 / 09951109888",
+      "email": "sacet.placements@gmail.com"
+    },
+    "salary_packages": {
+      "highest_package": "₹12.5 LPA",
+      "average_package": "₹3.8 LPA",
+      "median_salary_ug": "₹3.32 LPA",
+      "median_salary_pg": "₹4.15 LPA"
+    },
+    "major_recruiters": [
+      "TCS (Tata Consultancy Services)",
+      "Infosys",
+      "Wipro Technologies",
+      "Cognizant (CTS)",
+      "Tech Mahindra",
+      "Amazon",
+      "HCL Technologies",
+      "Capgemini",
+      "Miracle Software Systems",
+      "Dr. Reddy's Laboratories",
+      "Sutherland Global",
+      "Reliance Industries"
+    ]
+  },
+  "student_clubs_and_conveners": [
+    {
+      "club_name": "Innovation Club (Technical)",
+      "convener": "Dr. G. Srinivasa Rao",
+      "branch": "ECE",
+      "phone": "9000455472"
+    },
+    {
+      "club_name": "Communication Club (Technical)",
+      "convener": "Mr. K. Mallikarjuna Rao",
+      "branch": "H&S",
+      "phone": "9160520049"
+    },
+    {
+      "club_name": "Climate Action Unit Club (Technical)",
+      "convener": "Dr. Gundala Vijay Kumar",
+      "branch": "Civil",
+      "phone": "7989340657"
+    },
+    {
+      "club_name": "NDLI Club (National Digital Library)",
+      "convener": "Dr. Bandi Kiran Kumar",
+      "branch": "ECE",
+      "phone": "9182222077"
+    },
+    {
+      "club_name": "Music & Dance Club (Non-Technical)",
+      "convener": "Mr. S. Sai Sandeep",
+      "branch": "ECE",
+      "phone": "7095864596"
+    },
+    {
+      "club_name": "Event Architects Club (Non-Technical)",
+      "convener": "Mr. P. Anil Kumar",
+      "branch": "ECE",
+      "phone": "9849011881"
+    },
+    {
+      "club_name": "Sports Club (Non-Technical)",
+      "convener": "Dr. Ratnala Venkata Siva Harish",
+      "branch": "ECE",
+      "phone": "6281243070"
+    },
+    {
+      "club_name": "Photography Club (Non-Technical)",
+      "convener": "Dr. P. V. Veeranjaneya Kumar",
+      "branch": "MBA",
+      "phone": "9848730449"
+    },
+    {
+      "club_name": "Rotaract Club (Non-Technical)",
+      "convener": "Dr. V. Markandeyulu",
+      "branch": "H&S",
+      "phone": "9398712456"
+    },
+    {
+      "club_name": "Painting & Sketching Club (Non-Technical)",
+      "convener": "Dr. Prasuna Grandhi",
+      "branch": "CSE",
+      "phone": "8185811271"
+    }
+  ],
+  "academic_regulations": {
+    "regulations": "Autonomous R26 (Latest 2026 Curriculum), R23, R22, R20",
+    "attendance_rule": "75% minimum mandatory attendance required to qualify for semester-end examinations (Condonation up to 10% on medical grounds approved by Principal).",
+    "mentor_mentee_system": "1 mentor faculty assigned per 20 students for continuous academic and personal counseling.",
+    "credits_system": "Choice Based Credit System (CBCS) with semester grade point average (SGPA) and cumulative grade point average (CGPA)."
+  },
+  "campus_facilities": {
+    "hostels": {
+      "boys_and_girls": "Separate residential hostel campuses for Boys and Girls on campus with round-the-clock security, RO purified water, study halls, mess serving hygienic food, and strictly enforced 8:00 PM curfew."
+    },
+    "transport": {
+      "fleet": "30+ College Buses operating across Chirala, Vetapalem, Bapatla, Parchur, Karamchedu, Singarayakonda, Inkollu, and Ongole. Free transportation provided for college faculty members."
+    },
+    "library": {
+      "collection": "Central Digital Library with 50,000+ volumes, DELNET membership, IEEE online research subscriptions, and 50+ computer systems for digital e-learning."
+    },
+    "sports": {
+      "grounds": "Sprawling outdoor grounds for Cricket, Football, Volleyball, Basketball, Kabaddi, plus a modern Gymnasium supervised by Physical Education Director Sri Annam Srinivasa Rao."
+    }
+  },
+  "live_bulletins_2026": [
+    {
+      "date": "June 2026",
+      "headline": "23(A) Bn NCC CATC-I Camp & Firing Practice",
+      "description": "10-day Combined Annual Training Camp for NCC Cadets organized at SACET Nayunipalli campus with live rifle firing sessions at the college firing range under Lieutenant M. Rajesh Babu."
+    },
+    {
+      "date": "April 2026",
+      "headline": "PACE Festino State Volleyball Champions & Kabaddi Runners-Up",
+      "description": "SACET Men Volleyball team won the prestigious State-level Champions Trophy at PACE Festino 2026, while the Kabaddi team secured Runners-Up under Physical Director Sri Annam Srinivasa Rao."
+    },
+    {
+      "date": "March 2026",
+      "headline": "Strategic 3-Year Drone MoU Signed with Ramsur Agri LLP",
+      "description": "Formal agreement signed between SACET Chirala and Ramsur Agri LLP for setting up an on-campus agricultural drone assembly lab, DGCA-compliant pilot training, and student internships."
+    },
+    {
+      "date": "April 2026",
+      "headline": "APSSDC 5-Day Power BI & Data Analytics Workshop",
+      "description": "Intensive hands-on workshop conducted by APSSDC for engineering students covering data cleaning, DAX, predictive analytics, and executive business dashboards."
+    },
+    {
+      "date": "2026 Ongoing",
+      "headline": "CSE & CSI ServiceNow Certification Course",
+      "description": "Professional tool certification course organized by CSE Dept (HOD Dr. P. Harini, Coordinator T. Shesha Sai) in partnership with the Computer Society of India and Next Gen Secunderabad."
+    },
+    {
+      "date": "2026 Ongoing",
+      "headline": "Free POLYCET Entrance Coaching & Free Bus Facility",
+      "description": "Free coaching, syllabus books, and free bus service from Chirala/Bapatla for 10th class students aspiring to join diploma engineering. (Coordinator: Dr. K. Vijay Bhaskara Reddy, 9505518288)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Environment Variables (CRITICAL: Never commit secret API keys)
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
