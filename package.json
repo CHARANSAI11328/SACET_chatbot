@@ -2,10 +2,11 @@
   "name": "sacet-college-ai-portal",
   "version": "1.0.0",
   "description": "Official AI Campus Counselor & Institutional Web Portal for St. Ann's College of Engineering & Technology (SACET), Chirala.",
+  "main": "index.js",
   "scripts": {
     "build": "node build.js",
-    "start": "node local_server.js",
-    "dev": "node local_server.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "keywords": [
     "sacet",
